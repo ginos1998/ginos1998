@@ -16,19 +16,16 @@ Hi there! Welcome to my Github page!
   - A microservices architecture with learning purposes. More info [here](https://github.com/ginos1998/vex).
 
 #### :computer: Programming languages and tools:
-<p>
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="5%" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg"></code>
-<br />
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png"></code>
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="2%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
+<code><img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png"></code>
+<code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png"></code>
+<code><img width="7%" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png"></code>
+<code><img width="6%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png"></code>
+
+#### :bar_chart: Github account stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ginos1998&theme=tokyonight&show_icons=true" />
@@ -36,4 +33,3 @@ Hi there! Welcome to my Github page!
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ginos1998&theme=tokyonight&layout=compact&&hide=html,css,scss,javascript&card_width=320" />
 </a>
-</p>
