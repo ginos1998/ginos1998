@@ -1,9 +1,9 @@
-### Gino Siampichetti 👋
+### Gino Siampichetti :technologist:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gino-siampichetti/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ginosiam1998@gmail.com)
 
-Hi there! Welcome to my Github page!
+👋 Hi there! Welcome to my Github page!
 
 - 🛠️ I’m currently working on ... 
   - Finishing my Computer Engineering Degree
