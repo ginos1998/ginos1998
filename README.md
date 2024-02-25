@@ -17,12 +17,6 @@ Hi there! Welcome to my Github page!
 
 #### :computer: Programming languages and tools:
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ginos1998&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ginos1998&theme=tokyonight&layout=compact&&hide=html,css,scss,javascript&card_width=320" />
-</a>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -36,4 +30,10 @@ Hi there! Welcome to my Github page!
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg"></code>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=ginos1998&theme=tokyonight&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ginos1998&theme=tokyonight&layout=compact&&hide=html,css,scss,javascript&card_width=320" />
+</a>
 </p>
