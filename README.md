@@ -9,9 +9,10 @@
   - Finishing my Computer Engineering Degree
   - Working as backend developer in [Deep Creek Solutions](https://deepcreeksolutions.com/)
 - 📚 I’m currently learning ...
+  - Go
   - Microservices architectures
+  - Apache Kafka
   - DevOps tools like Docker, Kubernetes and monitoring tools
-  - Spring Framework 3
   - Operative System tools
 - 🌱 I’m currently developing ...
   - A microservices architecture with learning purposes. More info [here](https://github.com/ginos1998/vex).
