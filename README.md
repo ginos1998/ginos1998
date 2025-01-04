@@ -7,11 +7,11 @@
 
 - 🛠️ I’m currently working on ... 
   - Finishing my Computer Engineering Degree
-  - Working as backend developer in [Deep Creek Solutions](https://deepcreeksolutions.com/)
+  - Working as backend developer Ssr in [Inetum](https://www.inetum.com)
 - 📚 I’m currently learning ...
   - Go
   - Microservices architectures
-  - Apache Kafka
+  - GCP
   - DevOps tools like Docker, Kubernetes and monitoring tools
   - Operative System tools
 - 🌱 I’m currently developing ...
