@@ -7,7 +7,7 @@
 
 - 🛠️ I’m currently working on ... 
   - Finishing my Computer Engineering Degree
-  - Working as backend developer Ssr in [Inetum](https://www.inetum.com)
+  - Working as Software Engineer in [Mercado Libre](https://careers-meli.mercadolibre.com/)
 - 📚 I’m currently learning ...
   - Go
   - Microservices architectures
